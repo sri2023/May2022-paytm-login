@@ -1,0 +1,7 @@
+echo "# May2022-paytm-login" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sri2023/May2022-paytm-login.git
+git push -u origin main
